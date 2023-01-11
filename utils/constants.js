@@ -1,0 +1,3 @@
+export const DEFAULT_TODOLIST = ['开发者', '这里可以是链接文字什么的','——修改内容请点击黑色文字','——Please click the black text to modify the content', ' ', ' ','——上面的是文本描述，下面的是二维码的内容','——The above is the text description, and the following is the content of the two-dimensional code', ' ', ' ','使用方法：把一张二维码用工具转码，再把文本内容复制到本软件','How to use: transcode a two-dimensional code with a tool, and then copy the text content to the software']
+export const DEFAULT_TODOLIST_APP = ['Hi!', 'fwz233@qq.com', '190-45']
+export const TODO_FILE_NAME = 'fs_todo_list.txt'

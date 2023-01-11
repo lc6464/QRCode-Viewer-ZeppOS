@@ -1,0 +1,19 @@
+msgid "notice_1"
+msgstr "正在同步数据"
+msgid "notice_2"
+msgstr "同步数据成功"
+
+msgid "cahnge_time"
+msgstr "使用说明:本应用为一个循环计时器\n使用场景:用户在钓鱼时(或其他),提醒需要更换饵料,并在自定义时间后继续循环震动提醒"
+
+msgid "notice_3"
+msgstr "提醒后将关闭屏幕"
+msgid "notice_4"
+msgstr "提醒后将保持原样"
+msgid "notice_5"
+msgstr "自动熄屏"
+
+msgid "notice_6"
+msgstr "该抛竿了！"
+msgid "notice_7"
+msgstr "该提杆了！"

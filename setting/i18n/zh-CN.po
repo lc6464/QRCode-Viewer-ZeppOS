@@ -1,0 +1,12 @@
+msgid "hello"
+msgstr "按钮\n构筑交互"
+
+msgid "change"
+msgstr "精确调整模式"
+msgid "normal_change"
+msgstr "正常调整模式"
+
+msgid "start"
+msgstr "启动节拍器"
+msgid "stop"
+msgstr "关闭节拍器"

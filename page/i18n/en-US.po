@@ -1,0 +1,19 @@
+msgid "notice_1"
+msgstr "Synchronizing data"
+msgid "notice_2"
+msgstr "Data synchronization succeeded"
+
+msgid "cahnge_time"
+msgstr "Instructions for use: this application is a cycle timer \n use scenario: when fishing (or other), the user reminds that the bait needs to be changed, and continues to cycle the vibration reminder after the customized time"
+
+msgid "notice_3"
+msgstr "The screen will close after the reminder"
+msgid "notice_4"
+msgstr "It will remain the same after reminding"
+msgid "notice_5"
+msgstr "Automatic screen off"
+
+msgid "notice_6"
+msgstr "thr!"
+msgid "notice_7"
+msgstr "det!"
